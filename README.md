@@ -1,5 +1,6 @@
 # GDC-Airways-Web-App
-HTML, CSS, JavaScript, PHP based web application for Airline ticket management.
+Created Ariline Reservation System project in my final year (5th Semester) as a major project of Software engineering and RDBMS Database Management 
+Used HTML, CSS, JavaScript, PHP based web application for Airline ticket management.
 
 
 ### Database Schema <br/>
